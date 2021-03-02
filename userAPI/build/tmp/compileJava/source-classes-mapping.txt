@@ -1,0 +1,8 @@
+com/tts/userAPI/UserApiApplication.java
+ com.tts.userAPI.UserApiApplication
+com/tts/userAPI/model/User.java
+ com.tts.userAPI.model.User
+com/tts/userAPI/controller/UserController.java
+ com.tts.userAPI.controller.UserController
+com/tts/userAPI/repository/UserRepository.java
+ com.tts.userAPI.repository.UserRepository
